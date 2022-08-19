@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #DAD8D8;
+}
+
+header{
+	background: #FDBE04;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	height: 190px;
+}
+
+#logo{
+	color: #353431;
+}
+
+h1{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.menu{
+	padding: 10px 25px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.menu:link, .menu:visited{
+	color: #fff;
+}
+
+.menu:hover{
+	background-color: #fff;
+	color: #FDBE04;
+}
+
+#noticia{
+	width: 53%;
+	margin-left: 12%;
+	margin-top: 20px;
+	margin-right: 35%;
+	position: relative;
+	background: #fff;
+	padding-bottom: 30px;
+}
+
+#imnot{
+	position: relative;
+	left: 5%;
+}
+
+#titulo{
+	padding-top: 20px;
+	color: #FDBE04;
+	font-size: 32px;
+	position: relative;
+	left: 5%;
+}
+#data{
+	color: #000;
+	position: relative;
+	left: 5%;
+	padding-bottom: 20px;
+}
+
+aside{
+	width: 300px;
+	height: 280px;
+	position: relative;
+	top: -550px;
+	margin-left: 68%;
+	background: #fff;
+	padding: 10px;
+}
+
+.titulosrec{
+	color: #2D2D2D;
+	background: #ccc;
+	position: relative;
+}
+
+.textrec{
+	position: relative;
+}
+
+.saibamais{
+	color: #FDBE04;
+	text-decoration: none;
+}
+
+.bloco{
+	display: block;
+	color: #FDBE04;
+	text-decoration: none;
+	position: relative;
+	top: 30px;
+}
+
+#titulosrec2{
+	color: #2D2D2D;
+	background: #ccc;
+	position: relative;
+	top: 30px;
+}
